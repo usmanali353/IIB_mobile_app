@@ -10,7 +10,7 @@ class SearchRoom extends StatelessWidget {
     return Card(
       child: TextField(
         decoration: InputDecoration(
-            hintText: "Search Rooms",
+            hintText: "Search Rooms...",
             prefixIcon: Icon(Icons.search),
             suffixIcon: Icon(Icons.filter_list),
             filled: true,
