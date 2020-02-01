@@ -7,10 +7,7 @@ class room_details_layout extends StatefulWidget {
 }
 
 class _BookPageState extends State<room_details_layout> {
-  Color _backgroundColor = Colors.deepPurple;//Color.fromRGBO(0, 21, 48, 1);
-  Color _containerColor = Colors.deepPurple; //Color.fromRGBO(8, 183, 131, 1);
 
-  String _image = "https://cdn.pixabay.com/photo/2014/08/11/21/40/wall-416062__340.jpg";
 
   @override
   Widget build(BuildContext context) {

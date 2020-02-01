@@ -10,7 +10,7 @@ class RoomWidgetText extends StatelessWidget {
     return Text("Offices",style: TextStyle(
         fontWeight: FontWeight.bold,
         fontSize: 32.0,
-        color: Colors.redAccent
+        color: Colors.tealAccent
     ),
     );
   }
